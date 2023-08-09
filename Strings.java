@@ -32,7 +32,6 @@ public class Strings {
 //     System.out.println("equal");
 // }else{
 //     System.out.println("not equal");
-    
 // }
 //substrings
 String sentence="My name is tony";

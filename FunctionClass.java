@@ -2,7 +2,7 @@ import java.util.*;
 // // // Q1-//Print a given name in function
 // // // public class FunctionClass {
 
-import javax.sql.rowset.spi.SyncResolver;
+i
     
 // // //     public static void printMyName(String name){
 // // //         System.out.println(name);

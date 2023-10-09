@@ -20,7 +20,7 @@ public class SBuilder {
 //  sb.append("l");
 //   sb.append("l");
 //    sb.append("o");
-//    System.out.println(sb);
+//    System.out.println(sb); 
 //     System.out.println(sb.length());
 StringBuilder sb=new StringBuilder("hello");
 for(int i=0;i<sb.length()/2;i++){
